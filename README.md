@@ -1,24 +1,24 @@
-Handwritten Digit Recognition with Keras
+## Handwritten Digit Recognition with Keras
 
 This repository contains deep learning models developed in Python using the Keras library for the MNIST handwritten digit recognition problem. The MNIST dataset contains 60,000 training images and 10,000 test images of handwritten digits, with each image being 28x28 pixels in size. The goal of this project is to develop models that can accurately recognize the digit in each image.
 
-Models:  
+####Models:  
 This project includes the following models for handwritten digit recognition:  
 -Baseline Model with Multilayer Perceptrons  
 -Simple Convolutional Neural Network for MNIST  
 -Larger Convolutional Neural Network for MNIST
 
-Getting Started:  
+####Getting Started:  
 These instructions will help you set up the project and run the models on your local machine.
 
-Prerequisites:  
+####Prerequisites:  
 Before you begin, make sure you have the following software installed:
 Python 3.x
 Keras
 TensorFlow
 Numpy
 
-Running the Models:  
+####Running the Models:  
 To run any of the models, simply open the corresponding python file in your preferred text editor and run the script. The models have been developed using Jupyter Lab, so you can also run them in Jupyter by opening the corresponding notebook file.
 
 Results:  
